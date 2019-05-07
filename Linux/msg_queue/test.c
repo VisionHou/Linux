@@ -41,4 +41,3 @@ int main()
     printf("%s\n",buf.mtext);
     return 0;
 }
-
